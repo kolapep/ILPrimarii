@@ -1,0 +1,16 @@
+My final face generator: 
+Click (mouse) to Randomize shape and color
+Press S to change to a random color
+Hold A and drag to manually change size
+Face will automatically follow mouse position
+
+I wanted the player to be able to choose how the customized their character (random or manual) This mainly included including both a random funtion and one that tracks your mouse or keys. 
+
+My original idea was just to change the size of the face or body depending on what button is being clicked.
+While my final product doesnt quite match my sketch, and is a lot more visually simple in comparison, I was able to build off my origional idea while expiramenting with the code. AKA I got intentionally sidetracked and did something cooler.
+
+Most of the main positioning (attaching face to screen to body, etc..) was done through trial and error, making sure to use variables immediatly so it will auto adjust depending on the scale. I did a lot of trials on copies or separate P5 sketches before combining them into my final sketch. 
+The most difficult part was honestly deciding what I wanted to do and what parts (color, shape, postitions, etc..) would be decided by what triggers (manual, random, etc..). For example, I couldnt decide if I wanted the face or body to track the mouse. 
+Otherwise the process was basically getting an idea and simply following the powerpoints and youtube video or using google to exacute it.
+
+I'm not sure how you wanted us to include the sketches or process images but I included it on canvas as well as a copy of this responce.
