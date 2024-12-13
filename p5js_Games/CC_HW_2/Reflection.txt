@@ -1,7 +1,0 @@
-I first started with the background. I attempted to recreate a cammo effect by stacking layers of black ovals with a lower opacity.
-I added a drop shadow behind the main blue base circle with a black elipse- low opasity
-I added a shadow on the blue circle base
-I could not figure out how to do a radial gradient (TRUST ME I TRIED) so I tried to recreate via circles
-The rest of my process was relativly strightfoward- shape, fill, no stoke, color, transform, copy paste repeat. I had to ask my partner about a few instructions but other alterations were made after the image started to come though
-Halfway through I was hit by the realization that I was doing rotation before translation meaning all my translations had been skewed- made the process much faster after the fix - lesson learned
-Last I added a shine overtop with a lowered opacity

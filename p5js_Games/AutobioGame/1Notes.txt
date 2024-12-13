@@ -1,6 +1,0 @@
-Scenes
-
-Load Game
-Instucions
-Win and Lose?
-Window Scene perhaps?
